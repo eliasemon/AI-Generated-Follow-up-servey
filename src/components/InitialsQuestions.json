@@ -1,7 +1,11 @@
 [
-  { "id": "1", "question": "What are your main goals for this project?", "answer": "", "type": "objectives" },
-  { "id": "2", "question": "What resources are you currently using to achieve these goals?", "answer": "", "type": "resources" },
-  { "id": "3", "question": "What metrics will define success for you?", "answer": "", "type": "metrics" },
+  { "id": "1", "question": "What interests you the most about AI?", "answer": "" , "type": "AI" },
+  { "id": "2", "question": "How do you plan to use AI in your work? ", "answer": "", "type": "AI"},
+  { "id": "3", "question": "What challenges do you face that AI might help 'with'?", "answer": "" , "type": "AI" },
+
+  { "id": "1a", "question": "What are your main goals for career?", "answer": "", "type": "objectives" },
+  { "id": "2a", "question": "What resources are you currently using to achieve these goals?", "answer": "", "type": "resources" },
+  { "id": "3a", "question": "What metrics will define success for you?", "answer": "", "type": "metrics" },
 
   { "id": "4", "question": "What skills do you want to improve?", "answer": "", "type": "personal-development" },
   { "id": "5", "question": "How do you currently practice or improve these skills?", "answer": "", "type": "personal-development" },
@@ -9,7 +13,7 @@
 
   { "id": "7", "question": "What kind of team culture do you value most?", "answer": "", "type": "team" },
   { "id": "8", "question": "How do you think this culture impacts collaboration?", "answer": "", "type": "team" },
-  { "id": "9", "question": "What steps can we take to align with your vision?", "answer": "", "type": "alignment" },
+  { "id": "9", "question": "What steps can you take to align with your vision?", "answer": "", "type": "alignment" },
 
   { "id": "10", "question": "What kind of technical challenges are you currently facing?", "answer": "", "type": "technical" },
   { "id": "11", "question": "Have you identified any potential solutions to these challenges?", "answer": "", "type": "technical" },
